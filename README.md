@@ -1,1 +1,1 @@
-# java-script2
+# Aplicaci-n-de-Productos-con-Javascript-Orientado-a-Objetos
